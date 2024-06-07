@@ -1,6 +1,5 @@
 ### 💫 About Me:
 HEY, I'm BOO<br>I work as a ~web designer~ front-end developer with UI/UX design skills (front-end designer). I´m based in Egypt, Cairo.<br>I love programming, Reading and sport<br>I enjoy using my obsessive attention to detail<br>I love learning new technologies and contributing to open source. <br><br>
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100069712692104) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abdallah_._ashraf/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdallah-ashraf-a8549521a) 
