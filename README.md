@@ -21,14 +21,64 @@ HEY, I'm BOO<br>I work as a ~web designer~ front-end developer with UI/UX design
 [![](https://visitcount.itsvg.in/api?id=B-O-O&icon=4&color=8)](https://visitcount.itsvg.in)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
-</br>
+### Pac-Man preview
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/demo/pacman-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/demo/pacman.svg">
     <img alt="pacman contribution graph" src="assets/demo/pacman.svg">
+</picture>
+
+### Breakout preview
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/demo/breakout-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/demo/breakout.svg">
+    <img alt="breakout contribution graph" src="assets/demo/breakout.svg">
+</picture>
+
+### Galaga preview
+
+<picture>
+    <img alt="galaga contribution graph" src="assets/demo/galaga.svg">
+</picture>
+
+### Puzzle Bobble preview
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/demo/puzzle-bobble-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/demo/puzzle-bobble.svg">
+    <img alt="puzzle bobble contribution graph" src="assets/demo/puzzle-bobble.svg">
+</picture>
+
+### Bomberman preview
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/demo/bomberman-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/demo/bomberman.svg">
+    <img alt="bomberman contribution graph" src="assets/demo/bomberman.svg">
+</picture>
+
+### Minesweeper preview
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/demo/minesweeper-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/demo/minesweeper.svg">
+    <img alt="minesweeper contribution graph" src="assets/demo/minesweeper.svg">
+</picture>
+
+### Snake preview
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/demo/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/demo/snake.svg">
+    <img alt="snake contribution graph" src="assets/demo/snake.svg">
+</picture>
+
+### Tetris preview
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/demo/tetris-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/demo/tetris.svg">
+    <img alt="tetris contribution graph" src="assets/demo/tetris.svg">
 </picture>
