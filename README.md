@@ -27,9 +27,48 @@ HEY, I'm BOO<br>I work as a ~web designer~ front-end developer with UI/UX design
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cambridgekg/cambridgekg/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cambridgekg/cambridgekg/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cambridgekg/cambridgekg/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<themed-picture data-catalyst-inline="true"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/tetris-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/tetris.svg">
+    <img alt="tetris contribution graph" src="/abozanona/pacman-contribution-graph/raw/main/assets/demo/tetris.svg">
+</picture></themed-picture>
 
+<themed-picture data-catalyst-inline="true"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/snake.svg">
+    <img alt="snake contribution graph" src="/abozanona/pacman-contribution-graph/raw/main/assets/demo/snake.svg">
+</picture></themed-picture>
+
+<themed-picture data-catalyst-inline="true"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/minesweeper-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/minesweeper.svg">
+    <img alt="minesweeper contribution graph" src="/abozanona/pacman-contribution-graph/raw/main/assets/demo/minesweeper.svg">
+</picture></themed-picture>
+
+<themed-picture data-catalyst-inline="true"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/bomberman-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/bomberman.svg">
+    <img alt="bomberman contribution graph" src="/abozanona/pacman-contribution-graph/raw/main/assets/demo/bomberman.svg">
+</picture></themed-picture>
+
+<themed-picture data-catalyst-inline="true"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/puzzle-bobble-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/puzzle-bobble.svg">
+    <img alt="puzzle bobble contribution graph" src="/abozanona/pacman-contribution-graph/raw/main/assets/demo/puzzle-bobble.svg">
+</picture></themed-picture>
+
+<themed-picture data-catalyst-inline="true"><picture>
+    <img alt="galaga contribution graph" src="/abozanona/pacman-contribution-graph/raw/main/assets/demo/galaga.svg">
+</picture></themed-picture>
+
+<themed-picture data-catalyst-inline="true"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/breakout-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/breakout.svg">
+    <img alt="breakout contribution graph" src="/abozanona/pacman-contribution-graph/raw/main/assets/demo/breakout.svg">
+</picture></themed-picture>
+
+<themed-picture data-catalyst-inline="true"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/pacman-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/pacman.svg">
+    <img alt="pacman contribution graph" src="/abozanona/pacman-contribution-graph/raw/main/assets/demo/pacman.svg">
+</picture></themed-picture>
