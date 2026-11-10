@@ -27,11 +27,11 @@ HEY, I'm BOO<br>I work as a ~web designer~ front-end developer with UI/UX design
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
-<themed-picture data-catalyst-inline="true"><picture>
+<picture>
     <source media="(prefers-color-scheme: dark)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/tetris-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/tetris.svg">
     <img alt="tetris contribution graph" src="/abozanona/pacman-contribution-graph/raw/main/assets/demo/tetris.svg">
-</picture></themed-picture>
+</picture>
 
 <themed-picture data-catalyst-inline="true"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/snake-dark.svg">
