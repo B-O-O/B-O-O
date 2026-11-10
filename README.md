@@ -21,5 +21,8 @@ HEY, I'm BOO<br>I work as a ~web designer~ front-end developer with UI/UX design
 [![](https://visitcount.itsvg.in/api?id=B-O-O&icon=4&color=8)](https://visitcount.itsvg.in)
 
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
