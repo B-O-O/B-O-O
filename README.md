@@ -25,4 +25,11 @@ HEY, I'm BOO<br>I work as a ~web designer~ front-end developer with UI/UX design
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</picture>
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cambridgekg/cambridgekg/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cambridgekg/cambridgekg/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cambridgekg/cambridgekg/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
