@@ -26,49 +26,9 @@ HEY, I'm BOO<br>I work as a ~web designer~ front-end developer with UI/UX design
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
-
+</br>
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/tetris-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/tetris.svg">
-    <img alt="tetris contribution graph" src="/abozanona/pacman-contribution-graph/raw/main/assets/demo/tetris.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/demo/pacman-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/demo/pacman.svg">
+    <img alt="pacman contribution graph" src="assets/demo/pacman.svg">
 </picture>
-
-<themed-picture data-catalyst-inline="true"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/snake.svg">
-    <img alt="snake contribution graph" src="/abozanona/pacman-contribution-graph/raw/main/assets/demo/snake.svg">
-</picture></themed-picture>
-
-<themed-picture data-catalyst-inline="true"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/minesweeper-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/minesweeper.svg">
-    <img alt="minesweeper contribution graph" src="/abozanona/pacman-contribution-graph/raw/main/assets/demo/minesweeper.svg">
-</picture></themed-picture>
-
-<themed-picture data-catalyst-inline="true"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/bomberman-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/bomberman.svg">
-    <img alt="bomberman contribution graph" src="/abozanona/pacman-contribution-graph/raw/main/assets/demo/bomberman.svg">
-</picture></themed-picture>
-
-<themed-picture data-catalyst-inline="true"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/puzzle-bobble-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/puzzle-bobble.svg">
-    <img alt="puzzle bobble contribution graph" src="/abozanona/pacman-contribution-graph/raw/main/assets/demo/puzzle-bobble.svg">
-</picture></themed-picture>
-
-<themed-picture data-catalyst-inline="true"><picture>
-    <img alt="galaga contribution graph" src="/abozanona/pacman-contribution-graph/raw/main/assets/demo/galaga.svg">
-</picture></themed-picture>
-
-<themed-picture data-catalyst-inline="true"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/breakout-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/breakout.svg">
-    <img alt="breakout contribution graph" src="/abozanona/pacman-contribution-graph/raw/main/assets/demo/breakout.svg">
-</picture></themed-picture>
-
-<themed-picture data-catalyst-inline="true"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/pacman-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/abozanona/pacman-contribution-graph/raw/main/assets/demo/pacman.svg">
-    <img alt="pacman contribution graph" src="/abozanona/pacman-contribution-graph/raw/main/assets/demo/pacman.svg">
-</picture></themed-picture>
